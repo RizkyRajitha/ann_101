@@ -15,5 +15,5 @@ used libraries
 + pandas
 
 used datasets 
-+ banknote dataset(http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
++ banknote dataset [source](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 + scikit-learn iris data set
